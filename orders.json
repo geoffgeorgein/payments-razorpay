@@ -1,0 +1,10 @@
+[
+  {
+    "order_id": "order_Qn5dw1NF30hpkF",
+    "amount": 120,
+    "currency": "INR",
+    "receipt": "receipt#1",
+    "status": "paid",
+    "payment_id": "pay_Qn5jckADbx7vhC"
+  }
+]
